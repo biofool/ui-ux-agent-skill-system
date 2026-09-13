@@ -92,3 +92,7 @@ UX/product brief
 ```
 
 Stitch output is a candidate, not the final design. If Stitch is unavailable, the orchestrator can still produce the three directions as briefs, code implementations, or Figma-independent design specs.
+
+## Multi-Agent Harness
+
+The skill layer above assumes one agent session. For several agent sessions across vendors that share one repository, see [docs/multi-agent-harness.md](multi-agent-harness.md): it documents the file-channel coordination scheme as it works today, the user paths, and the target role, seat, communication-policy, and supervisor model.

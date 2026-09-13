@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Added `docs/multi-agent-harness.md`: the current file-channel coordination between agent chats, its user paths, and the target harness model with roles bound to vendor/model seats, an editable communication policy, a single-appender bus, and a durable supervisor.
 - Prepared `0.3.0` expanded GitHub publication package with the local UI/UX Skill System scope.
 - Added pre-design, existing-site, admin, analytics, infrastructure, launch, SEO growth, SERP, progress, feedback, and workflow compliance skills to `core/skills`.
 - Added package-level progress/compliance runtime helpers and `data/journey-registry.json`.
